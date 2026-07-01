@@ -1,0 +1,43 @@
+geography_key,country,alpha_2,alpha_3,sub_region,region
+1,Australia,AU,AUS,Australia and New Zealand,Oceania
+2,Bahamas,BS,BHS,Latin America and the Caribbean,Americas
+3,Bermuda,BM,BMU,Northern America,Americas
+4,Brazil,BR,BRA,Latin America and the Caribbean,Americas
+5,Canada,CA,CAN,Northern America,Americas
+6,Cayman Islands,KY,CYM,Latin America and the Caribbean,Americas
+7,Chile,CL,CHL,Latin America and the Caribbean,Americas
+8,China,CN,CHN,Eastern Asia,Asia
+9,Colombia,CO,COL,Latin America and the Caribbean,Americas
+10,Costa Rica,CR,CRI,Latin America and the Caribbean,Americas
+11,Cyprus,CY,CYP,Western Asia,Asia
+12,Denmark,DK,DNK,Northern Europe,Europe
+13,Egypt,EG,EGY,Northern Africa,Africa
+14,Finland,FI,FIN,Northern Europe,Europe
+15,France,FR,FRA,Western Europe,Europe
+16,Germany,DE,DEU,Western Europe,Europe
+17,Greece,GR,GRC,Southern Europe,Europe
+18,Hong Kong,HK,HKG,Eastern Asia,Asia
+19,India,IN,IND,Southern Asia,Asia
+20,Ireland,IE,IRL,Northern Europe,Europe
+21,Israel,IL,ISR,Western Asia,Asia
+22,Italy,IT,ITA,Southern Europe,Europe
+23,Jersey,JE,JEY,Northern Europe,Europe
+24,Kazakhstan,KZ,KAZ,Central Asia,Asia
+25,"Korea, Republic of",KR,KOR,Eastern Asia,Asia
+26,Luxembourg,LU,LUX,Western Europe,Europe
+27,Mexico,MX,MEX,Latin America and the Caribbean,Americas
+28,Monaco,MC,MCO,Western Europe,Europe
+29,"Netherlands, Kingdom of the",NL,NLD,Western Europe,Europe
+30,Norway,NO,NOR,Northern Europe,Europe
+31,Panama,PA,PAN,Latin America and the Caribbean,Americas
+32,Peru,PE,PER,Latin America and the Caribbean,Americas
+33,Singapore,SG,SGP,South-eastern Asia,Asia
+34,Spain,ES,ESP,Southern Europe,Europe
+35,Sweden,SE,SWE,Northern Europe,Europe
+36,Switzerland,CH,CHE,Western Europe,Europe
+37,"Taiwan, Province of China",TW,TWN,,
+38,Thailand,TH,THA,South-eastern Asia,Asia
+39,Türkiye,TR,TUR,Western Asia,Asia
+40,United Kingdom of Great Britain and Northern Ireland,GB,GBR,Northern Europe,Europe
+41,United States of America,US,USA,Northern America,Americas
+42,Virgin Islands (British),VG,VGB,Latin America and the Caribbean,Americas
